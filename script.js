@@ -1,6 +1,6 @@
-let nameOf = "Olaide"
-let height = "5'6ft"
-let country = "Nigeria"
+let nameOf = "Olaide";
+let height = "5'6ft";
+let country = "Nigeria";
 
     
     
